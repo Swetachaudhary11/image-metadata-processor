@@ -530,3 +530,7 @@ AWS | Terraform | Python | Docker | CI/CD
 ## License
 
 This project is intended for educational, learning, portfolio, and hackathon purposes.
+
+## Test CI/CD Pipeline
+
+This section was added to trigger GitHub Actions workflow execution.
